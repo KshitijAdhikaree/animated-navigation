@@ -238,6 +238,7 @@ section#home a {
   left: 1.5rem;
   text-decoration: none;
   font-size: 1.2rem;
+  font-family: 'Courier New', Courier, monospace;
   padding-bottom: 5px;
   color: var(--primaryColor);
   border-bottom: 1px solid var(--primaryColor);
